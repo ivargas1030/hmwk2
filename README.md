@@ -5,3 +5,5 @@ Then I attempted the navbar, I could not get the menu to appear when the browser
 I then worked on the content page and attempted to create the form.
 Finally I worked on the portfolio page. I added photos but I did not have time to attempt the padding.
 I took a lot of my code from the bootstrap website as well as W3 schools.
+
+Updated on 12/19, I added all the homeworks (even my incomplete one) and the group project at the bottom. 
